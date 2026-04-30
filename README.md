@@ -16,3 +16,4 @@ Welcome to my learning journal! This is where I document my journey learning Git
 
 ## My Progress
 Just getting started! Updated regularly as I learn new things.
+this line is a big mistake
