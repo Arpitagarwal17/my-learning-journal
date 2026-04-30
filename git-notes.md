@@ -1,1 +1,1 @@
-# My Git Notes - FINAL VERSIONthis is a mistake
+# My Git Notes - FINAL VERSION
